@@ -5,6 +5,7 @@ const PORT = 3000;
 
 // 라우팅 정의
 app.get("/", (req, res) => {
+    console.log("GET /");
     res.sendFile(__dirname + "/public/index.html");
 });
 
