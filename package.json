@@ -1,0 +1,14 @@
+{
+  "name": "altairwiki",
+  "version": "0.0.1",
+  "description": "Personel wiki web server project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified'; false"
+  },
+  "author": "altair823",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
